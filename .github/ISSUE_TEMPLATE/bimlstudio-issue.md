@@ -41,7 +41,7 @@ ISSUES MISSING IMPORTANT INFORMATION MAY BE CLOSED WITHOUT INVESTIGATION.
 
 <pre><code>
 BimlStudio version: X.Y.Z
-<!-- Check whether this is still an issue in the most recent Angular version -->
+<!-- Check whether this is still an issue in the most recent BimlStudio version -->
 
 Target SSIS Version:
 <!-- Check one of the following options with "x" -->
@@ -54,6 +54,6 @@ Target SSIS Version:
 - [ ] 2017
 
 Others:
-<!-- Anything else relevant?  Operating system version, IDE, package manager, HTTP server, ... -->
+<!-- Anything else relevant?  Operating system version, IDE, data sources, ... -->
 
 </code></pre>
